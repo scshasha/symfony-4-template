@@ -1,0 +1,3 @@
+postgress:
+  type: posgres:9.2
+  disk: 2048
